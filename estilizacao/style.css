@@ -1,0 +1,46 @@
+.cor {
+    background-color: rgb(228, 228, 228);
+}
+
+
+
+header {
+ background-color: rgb(32, 32, 32);
+ background-image: url(/img/fundo-estrelado.avif);
+ width: 100%;
+ top: 0px;
+ position: sticky;
+}
+
+.topo {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 100px;
+  
+}
+
+.opcoes {
+    margin-left: auto;
+    
+}
+
+.opcoes ul {
+    list-style: none;
+}
+
+.opcoes ul li {
+    display: inline;
+    font-size: 1.2em;
+    padding: 15px; 
+   
+}
+
+.opcoes ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+
